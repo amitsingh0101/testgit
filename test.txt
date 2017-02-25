@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 test1
 test2
 test3
 test4
 test5
-=======
-test10
-test7
->>>>>>> parent of 56560d8... c1
 test6
