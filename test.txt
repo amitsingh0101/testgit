@@ -38,6 +38,7 @@ test36
 <<<<<<< HEAD
 test37
 test38
+<<<<<<< HEAD
 test39
 test40
 <<<<<<< HEAD
@@ -50,3 +51,5 @@ test42
 =======
 test37
 >>>>>>> 12b9254... test37
+=======
+>>>>>>> c709bb1... test38
