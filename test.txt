@@ -34,38 +34,9 @@ test33
 test34
 test35
 test36
-<<<<<<< HEAD
-<<<<<<< HEAD
 test37
 test38
-<<<<<<< HEAD
-<<<<<<< HEAD
 test39
 test40
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 test42
-=======
->>>>>>> 5067f54... test36
-=======
->>>>>>> 62a7dad... test36
-=======
-test37
->>>>>>> 12b9254... test37
-=======
->>>>>>> c709bb1... test38
-=======
-test39
->>>>>>> a7e1fca... test39
-=======
->>>>>>> 60b2104... test40
-=======
-
-test42
->>>>>>> 66ca794... test42
-=======
 test41
->>>>>>> a983d8f... test41
