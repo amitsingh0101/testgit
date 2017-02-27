@@ -34,6 +34,7 @@ test33
 test34
 test35
 test36
+<<<<<<< HEAD
 test37
 test38
 test39
@@ -43,3 +44,5 @@ test40
 test42
 =======
 >>>>>>> 5067f54... test36
+=======
+>>>>>>> 62a7dad... test36
